@@ -1,0 +1,64 @@
+2026-04-23 22:07:33,598 - INFO - Validando estructura del archivo...
+2026-04-23 22:07:33,599 - INFO - Estructura v醠ida. 5 filas procesables
+2026-04-23 22:07:33,602 - INFO - Reglas cargadas: data/rules/proveedores.csv - 3 reglas
+2026-04-23 22:07:33,629 - INFO - Reglas cargadas: data/rules/cuentas.csv - 5 reglas
+2026-04-23 22:07:33,649 - INFO - Reglas cargadas: data/rules/categorias.csv - 5 reglas
+2026-04-23 22:07:33,649 - INFO - Aplicando reglas de clasificaci髇...
+2026-04-23 22:07:33,692 - INFO - Clasificaci髇 completada. 5 cambios registrados
+2026-04-23 22:07:33,693 - INFO - Identificando excepciones...
+2026-04-23 22:07:33,701 - WARNING - Se encontraron 2 excepciones para revisi髇 manual
+2026-04-23 22:07:33,702 - INFO - Generando archivos de salida...
+2026-04-23 22:11:08,264 - INFO - === Iniciando proceso de cierre contable ===
+2026-04-23 22:11:08,270 - INFO - Archivo cargado: 5 filas
+2026-04-23 22:11:08,270 - INFO - Validando estructura del archivo...
+2026-04-23 22:11:08,272 - INFO - Estructura v谩lida. 5 filas procesables
+2026-04-23 22:11:08,274 - INFO - Reglas cargadas: data/rules/proveedores.csv - 3 reglas
+2026-04-23 22:11:08,275 - INFO - Reglas cargadas: data/rules/cuentas.csv - 5 reglas
+2026-04-23 22:11:08,277 - INFO - Reglas cargadas: data/rules/categorias.csv - 5 reglas
+2026-04-23 22:11:08,277 - INFO - Aplicando reglas de clasificaci贸n...
+2026-04-23 22:11:08,281 - INFO - Clasificaci贸n completada. 5 cambios registrados
+2026-04-23 22:11:08,282 - INFO - Identificando excepciones...
+2026-04-23 22:11:08,285 - WARNING - Se encontraron 2 excepciones para revisi贸n manual
+2026-04-23 22:11:08,286 - INFO - Generando archivos de salida...
+2026-04-23 22:11:08,289 - INFO - [OK] cierre_ajustado.csv - 5 filas
+2026-04-23 22:11:08,292 - INFO - [OK] excepciones.csv - 2 filas
+2026-04-23 22:11:08,296 - INFO - [OK] log_cambios.csv - 5 cambios
+2026-04-23 22:11:08,895 - INFO - [OK] informe_resumen.xlsx generado
+2026-04-23 22:11:08,896 - INFO - === Proceso completado exitosamente ===
+2026-04-23 22:27:34,556 - INFO - === Iniciando proceso de cierre contable ===
+2026-04-23 22:27:34,577 - INFO - Archivo cargado: 5 filas
+2026-04-23 22:27:34,578 - INFO - Validando estructura del archivo...
+2026-04-23 22:27:34,583 - INFO - Estructura v谩lida. 5 filas procesables
+2026-04-23 22:27:34,585 - INFO - Reglas cargadas: data/rules/proveedores.csv - 3 reglas
+2026-04-23 22:27:34,586 - INFO - Reglas cargadas: data/rules/cuentas.csv - 5 reglas
+2026-04-23 22:27:34,587 - INFO - Reglas cargadas: data/rules/categorias.csv - 5 reglas
+2026-04-23 22:27:34,588 - INFO - Aplicando reglas de clasificaci贸n...
+2026-04-23 22:27:34,597 - INFO - Clasificaci贸n completada. 5 cambios registrados
+2026-04-23 22:27:34,598 - INFO - Identificando excepciones...
+2026-04-23 22:27:34,604 - WARNING - Se encontraron 2 excepciones para revisi贸n manual
+2026-04-23 22:27:34,605 - INFO - Generando archivos de salida...
+2026-04-23 22:27:34,611 - INFO - [OK] cierre_ajustado.csv - 5 filas
+2026-04-23 22:27:34,616 - INFO - [OK] excepciones.csv - 2 filas
+2026-04-23 22:27:34,618 - INFO - [OK] log_cambios.csv - 5 cambios
+2026-04-23 22:27:35,003 - INFO - [OK] informe_resumen.xlsx generado
+2026-04-23 22:27:35,003 - INFO - === Proceso completado exitosamente ===
+2026-04-23 22:41:40,376 - INFO - === Iniciando proceso de cierre contable ===
+2026-04-23 22:41:40,376 - ERROR - No se encuentra el archivo: data/input/facturas_abril_ajustado.csv
+2026-04-23 22:43:32,967 - INFO - === Iniciando proceso de cierre contable ===
+2026-04-23 22:43:38,862 - INFO - Archivo cargado: transacciones.csv - 5 filas
+2026-04-23 22:43:38,863 - INFO - Validando estructura del archivo...
+2026-04-23 22:43:38,866 - INFO - Estructura v谩lida. 5 filas procesables
+2026-04-23 22:43:38,880 - INFO - No se encontraron duplicados
+2026-04-23 22:43:38,895 - INFO - Reglas cargadas: data/rules/proveedores.csv - 3 reglas
+2026-04-23 22:43:38,903 - INFO - Reglas cargadas: data/rules/cuentas.csv - 5 reglas
+2026-04-23 22:43:38,908 - INFO - Reglas cargadas: data/rules/categorias.csv - 5 reglas
+2026-04-23 22:43:38,909 - INFO - Aplicando reglas de clasificaci贸n...
+2026-04-23 22:43:38,914 - INFO - Clasificaci贸n completada. 5 cambios registrados
+2026-04-23 22:43:38,915 - INFO - Identificando excepciones...
+2026-04-23 22:43:38,916 - WARNING - Se encontraron 2 excepciones para revisi贸n manual
+2026-04-23 22:43:38,916 - INFO - Generando archivos de salida...
+2026-04-23 22:43:38,921 - INFO - [OK] transacciones_ajustado.csv - 5 filas
+2026-04-23 22:43:38,927 - INFO - [OK] transacciones_excepciones.csv - 2 filas
+2026-04-23 22:43:38,931 - INFO - [OK] transacciones_log_cambios.csv - 5 cambios
+2026-04-23 22:43:39,357 - INFO - [OK] transacciones_informe.xlsx generado
+2026-04-23 22:43:39,357 - INFO - === Proceso completado exitosamente ===

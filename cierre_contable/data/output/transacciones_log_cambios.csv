@@ -1,0 +1,6 @@
+fila,campo,valor_original,valor_nuevo,motivo
+0,categoria_asignada,,Suministros Energía,Proveedor: iberdrola
+1,categoria_asignada,,Telecomunicaciones,Proveedor: telefónica
+2,categoria_asignada,,Compras,Proveedor: mercadona
+3,estado,pendiente,excepcion,No se pudo clasificar automáticamente
+4,estado,pendiente,excepcion,No se pudo clasificar automáticamente

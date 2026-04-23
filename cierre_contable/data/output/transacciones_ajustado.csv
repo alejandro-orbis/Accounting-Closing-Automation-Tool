@@ -1,0 +1,6 @@
+fecha,proveedor,descripcion,importe,cuenta,categoria_asignada,centro_costo,estado
+2024-03-15,Iberdrola,Factura electricidad marzo,1250.0,628,Suministros Energía,Central,clasificado
+2024-03-16,Telefónica,Factura internet,85.5,629,Telecomunicaciones,Sucursal Norte,clasificado
+2024-03-17,Mercadona,Compra material oficina,230.0,602,Compras,Almacén,clasificado
+2024-03-18,Proveedor X,Consultoría TI,1500.0,622,,,excepcion
+2024-03-19,Proveedor Y,Compra ordenador,800.0,623,,,excepcion

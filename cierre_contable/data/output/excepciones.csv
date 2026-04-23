@@ -1,0 +1,3 @@
+fecha,proveedor,descripcion,importe,cuenta,categoria_asignada,centro_costo,estado
+2024-03-18,Proveedor X,Consultoría TI,1500.0,622,,,excepcion
+2024-03-19,Proveedor Y,Compra ordenador,800.0,623,,,excepcion
