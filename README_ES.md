@@ -94,7 +94,7 @@ software,Tecnología,Sistemas
 
 ### 5. Ejecutar la herramienta
 
-**Windows** — doble clic en `ejecutar.bat`
+**Windows** — doble clic en `run.bat`
 
 **Terminal:**
 
