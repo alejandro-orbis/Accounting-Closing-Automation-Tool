@@ -120,7 +120,7 @@ cierre-contable/
 ├── src/
 │   └── main.py         ← punto de entrada principal
 ├── config/             ← configuración de la herramienta
-├── ejecutar.bat        ← lanzador Windows (doble clic para ejecutar)
+├── run.bat             ← lanzador Windows (doble clic para ejecutar)
 └── instrucciones.txt   ← guía para el usuario final
 ```
 
