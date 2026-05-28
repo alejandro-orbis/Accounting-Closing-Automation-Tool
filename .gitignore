@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+env/
+
+# Local execution logs
+execution.log
+*.log
+
+# Generated output files
+cierre_contable/data/output/*
+!cierre_contable/data/output/.gitkeep
+
+# Local/temporary files
+.DS_Store
+Thumbs.db
+*.tmp
+~$*.xlsx
