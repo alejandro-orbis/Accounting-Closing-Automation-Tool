@@ -1,0 +1,19 @@
+required_columns:
+  - fecha
+  - proveedor
+  - descripcion
+  - importe
+  - cuenta
+
+columnas_opcionales:
+  - centro_costo
+  - categoria
+
+output_config:
+  separador: ","
+  encoding: "utf-8"
+  decimales: 2
+
+logging:
+  nivel: "INFO"
+  archivo: "execution.log"
